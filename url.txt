@@ -1,0 +1,4 @@
+https://api-render-htpi.onrender.com/
+
+--- conn base
+psql "postgresql://generatex_user:2Pah4fQiU6PlLK0pnVc7sZbQ1Dcy0xTU@dpg-d7lh1f9j2pic73f26nf0-a.oregon-postgres.render.com:5432/generatex?sslmode=require"

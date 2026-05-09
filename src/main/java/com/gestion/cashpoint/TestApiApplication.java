@@ -1,4 +1,4 @@
-package com.example.test_api;
+package com.gestion.cashpoint;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
